@@ -24,9 +24,13 @@ Another aspect of modern version control that is used most effectively by the de
 
 Software version control comes with a learning curve, but as libraries start becoming producers of code as well as consumers of it, it will be an important tool to know about.  
 
-OTHER REASONS ADDED BY COPYSTAR
+Why I am learning git by @copystar
+==================================
 I'm learning git because all the sofware communities that I want to work with (Drupal, Evergreen/Conifer, ThinkUp) all use it
-Also, I think version control is the represents a completely different kind of "word processing" that we many of us are already using but don't even know it yet (Google Docs)
+Also, I think version control is the represents a completely different kind of "word processing" that we many of us are already using but don't even know it yet (Google Docs and Dropbox) and this will change the very way we write, I think. 
+
 Also, git clone is a very easy way of snagging code from others. Yay git.
+@
+@
 @
 *About our guest author: John Fink is Digital Scholarship Librarian at McMaster University in Hamilton, Ontario. He holds an MLS from San Jose State University, and has spent most of his working life in library systems departments. His primary research interests are copyright, physical computing, and emerging technologies.*
